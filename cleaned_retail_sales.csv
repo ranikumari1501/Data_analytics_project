@@ -1,0 +1,151 @@
+OrderID,OrderDate,ProductID,ProductName,Category,City,Region,SalesChannel,Quantity,UnitPrice,DiscountPct,Revenue,Cost,Profit,Month
+ORD0001,2025-11-24,P102,Headphones,Electronics,Gwalior,Central,Online,3,2500,0.0,7500.0,4200,3300.0,2025-11
+ORD0002,2025-03-13,P102,Headphones,Electronics,Patna,East,Store,5,2500,0.0,12500.0,7000,5500.0,2025-03
+ORD0003,2025-01-17,P101,Laptop,Electronics,Gwalior,Central,Online,2,55000,0.0,110000.0,84000,26000.0,2025-01
+ORD0004,2025-10-15,P104,Desk,Furniture,Patna,East,Online,5,12000,0.1,54000.0,41000,13000.0,2025-10
+ORD0005,2025-08-18,P110,Backpack,Accessories,Indore,Central,Store,1,1600,0.0,1600.0,850,750.0,2025-08
+ORD0006,2025-06-24,P105,Notebook Pack,Stationery,Bhopal,Central,Online,2,300,0.05,570.0,240,330.0,2025-06
+ORD0007,2025-02-17,P107,Smartphone,Electronics,Gwalior,Central,Store,3,22000,0.05,62700.0,49500,13200.0,2025-02
+ORD0008,2025-01-23,P108,Water Bottle,Home & Kitchen,Jaipur,North,Online,1,650,0.1,585.0,280,305.0,2025-01
+ORD0009,2025-10-10,P105,Notebook Pack,Stationery,Patna,East,Online,5,300,0.05,1425.0,600,825.0,2025-10
+ORD0010,2025-12-27,P102,Headphones,Electronics,Gwalior,Central,Online,2,2500,0.05,4750.0,2800,1950.0,2025-12
+ORD0011,2025-04-30,P102,Headphones,Electronics,Delhi,North,Store,3,2500,0.1,6750.0,4200,2550.0,2025-04
+ORD0012,2025-03-25,P106,Pen Set,Stationery,Indore,Central,Online,2,180,0.05,342.0,120,222.0,2025-03
+ORD0013,2025-11-08,P103,Office Chair,Furniture,Jaipur,North,Store,2,8500,0.0,17000.0,11200,5800.0,2025-11
+ORD0014,2025-07-14,P105,Notebook Pack,Stationery,Patna,East,Store,5,300,0.0,1500.0,600,900.0,2025-07
+ORD0015,2025-01-29,P104,Desk,Furniture,Gwalior,Central,Store,3,12000,0.1,32400.0,24600,7800.0,2025-01
+ORD0016,2025-02-03,P104,Desk,Furniture,Jaipur,North,Store,3,12000,0.0,36000.0,24600,11400.0,2025-02
+ORD0017,2025-07-22,P108,Water Bottle,Home & Kitchen,Bhopal,Central,Online,3,650,0.0,1950.0,840,1110.0,2025-07
+ORD0018,2025-10-15,P109,Table Lamp,Home & Kitchen,Indore,Central,Store,5,1800,0.1,8100.0,4750,3350.0,2025-10
+ORD0019,2025-07-05,P104,Desk,Furniture,Bhopal,Central,Online,5,12000,0.1,54000.0,41000,13000.0,2025-07
+ORD0020,2025-01-25,P102,Headphones,Electronics,Bhopal,Central,Online,2,2500,0.1,4500.0,2800,1700.0,2025-01
+ORD0021,2025-07-17,P107,Smartphone,Electronics,Jaipur,North,Store,4,22000,0.15,74800.0,66000,8800.0,2025-07
+ORD0022,2025-10-11,P101,Laptop,Electronics,Patna,East,Store,1,55000,0.15,46750.0,42000,4750.0,2025-10
+ORD0023,2025-11-25,P106,Pen Set,Stationery,Gwalior,Central,Online,3,180,0.1,486.0,180,306.0,2025-11
+ORD0024,2025-08-21,P101,Laptop,Electronics,Patna,East,Online,3,55000,0.15,140250.0,126000,14250.0,2025-08
+ORD0025,2025-09-17,P102,Headphones,Electronics,Patna,East,Online,3,2500,0.15,6375.0,4200,2175.0,2025-09
+ORD0026,2025-03-20,P106,Pen Set,Stationery,Bhopal,Central,Online,5,180,0.15,765.0,300,465.0,2025-03
+ORD0027,2025-11-03,P106,Pen Set,Stationery,Delhi,North,Store,1,180,0.0,180.0,60,120.0,2025-11
+ORD0028,2025-06-07,P104,Desk,Furniture,Gwalior,Central,Online,2,12000,0.15,20400.0,16400,4000.0,2025-06
+ORD0029,2025-02-13,P108,Water Bottle,Home & Kitchen,Gwalior,Central,Online,5,650,0.0,3250.0,1400,1850.0,2025-02
+ORD0030,2025-12-04,P108,Water Bottle,Home & Kitchen,Jaipur,North,Store,2,650,0.05,1235.0,560,675.0,2025-12
+ORD0031,2025-04-19,P109,Table Lamp,Home & Kitchen,Patna,East,Store,2,1800,0.05,3420.0,1900,1520.0,2025-04
+ORD0032,2025-12-10,P106,Pen Set,Stationery,Delhi,North,Online,5,180,0.1,810.0,300,510.0,2025-12
+ORD0033,2025-05-07,P104,Desk,Furniture,Gwalior,Central,Online,3,12000,0.0,36000.0,24600,11400.0,2025-05
+ORD0034,2025-10-29,P104,Desk,Furniture,Gwalior,Central,Online,1,12000,0.0,12000.0,8200,3800.0,2025-10
+ORD0035,2025-02-04,P101,Laptop,Electronics,Indore,Central,Online,1,55000,0.15,46750.0,42000,4750.0,2025-02
+ORD0036,2025-05-23,P108,Water Bottle,Home & Kitchen,Bhopal,Central,Store,5,650,0.0,3250.0,1400,1850.0,2025-05
+ORD0037,2025-05-05,P108,Water Bottle,Home & Kitchen,Delhi,North,Online,2,650,0.0,1300.0,560,740.0,2025-05
+ORD0038,2025-12-04,P107,Smartphone,Electronics,Indore,Central,Store,4,22000,0.1,79200.0,66000,13200.0,2025-12
+ORD0039,2025-01-28,P102,Headphones,Electronics,Gwalior,Central,Online,4,2500,0.05,9500.0,5600,3900.0,2025-01
+ORD0040,2025-05-08,P104,Desk,Furniture,Bhopal,Central,Online,5,12000,0.1,54000.0,41000,13000.0,2025-05
+ORD0041,2025-08-05,P103,Office Chair,Furniture,Indore,Central,Online,4,8500,0.0,34000.0,22400,11600.0,2025-08
+ORD0042,2025-08-15,P109,Table Lamp,Home & Kitchen,Gwalior,Central,Online,1,1800,0.15,1530.0,950,580.0,2025-08
+ORD0043,2025-02-17,P104,Desk,Furniture,Bhopal,Central,Store,4,12000,0.1,43200.0,32800,10400.0,2025-02
+ORD0044,2025-04-20,P107,Smartphone,Electronics,Gwalior,Central,Online,2,22000,0.1,39600.0,33000,6600.0,2025-04
+ORD0045,2025-07-19,P105,Notebook Pack,Stationery,Delhi,North,Store,3,300,0.1,810.0,360,450.0,2025-07
+ORD0046,2025-03-21,P104,Desk,Furniture,Indore,Central,Online,2,12000,0.0,24000.0,16400,7600.0,2025-03
+ORD0047,2025-06-10,P101,Laptop,Electronics,Gwalior,Central,Online,5,55000,0.1,247500.0,210000,37500.0,2025-06
+ORD0048,2025-01-30,P109,Table Lamp,Home & Kitchen,Gwalior,Central,Online,2,1800,0.0,3600.0,1900,1700.0,2025-01
+ORD0049,2025-12-12,P104,Desk,Furniture,Delhi,North,Online,1,12000,0.15,10200.0,8200,2000.0,2025-12
+ORD0050,2025-10-24,P110,Backpack,Accessories,Gwalior,Central,Store,5,1600,0.0,8000.0,4250,3750.0,2025-10
+ORD0051,2025-12-03,P110,Backpack,Accessories,Jaipur,North,Store,5,1600,0.05,7600.0,4250,3350.0,2025-12
+ORD0052,2025-04-15,P106,Pen Set,Stationery,Bhopal,Central,Online,3,180,0.1,486.0,180,306.0,2025-04
+ORD0053,2025-12-10,P105,Notebook Pack,Stationery,Delhi,North,Online,3,300,0.0,900.0,360,540.0,2025-12
+ORD0054,2025-08-23,P110,Backpack,Accessories,Jaipur,North,Online,1,1600,0.0,1600.0,850,750.0,2025-08
+ORD0055,2025-09-17,P105,Notebook Pack,Stationery,Bhopal,Central,Online,3,300,0.0,900.0,360,540.0,2025-09
+ORD0056,2025-07-09,P105,Notebook Pack,Stationery,Bhopal,Central,Store,4,300,0.15,1020.0,480,540.0,2025-07
+ORD0057,2025-11-10,P109,Table Lamp,Home & Kitchen,Gwalior,Central,Online,5,1800,0.05,8550.0,4750,3800.0,2025-11
+ORD0058,2025-03-10,P105,Notebook Pack,Stationery,Gwalior,Central,Online,1,300,0.15,255.0,120,135.0,2025-03
+ORD0059,2025-05-20,P105,Notebook Pack,Stationery,Jaipur,North,Online,2,300,0.05,570.0,240,330.0,2025-05
+ORD0060,2025-12-18,P105,Notebook Pack,Stationery,Jaipur,North,Online,4,300,0.05,1140.0,480,660.0,2025-12
+ORD0061,2025-02-17,P107,Smartphone,Electronics,Indore,Central,Store,1,22000,0.0,22000.0,16500,5500.0,2025-02
+ORD0062,2025-03-08,P105,Notebook Pack,Stationery,Bhopal,Central,Store,4,300,0.15,1020.0,480,540.0,2025-03
+ORD0063,2025-10-15,P101,Laptop,Electronics,Gwalior,Central,Online,1,55000,0.0,55000.0,42000,13000.0,2025-10
+ORD0064,2025-07-09,P110,Backpack,Accessories,Jaipur,North,Online,2,1600,0.1,2880.0,1700,1180.0,2025-07
+ORD0065,2025-01-22,P105,Notebook Pack,Stationery,Indore,Central,Online,1,300,0.05,285.0,120,165.0,2025-01
+ORD0066,2025-12-16,P104,Desk,Furniture,Patna,East,Store,1,12000,0.05,11400.0,8200,3200.0,2025-12
+ORD0067,2025-11-14,P103,Office Chair,Furniture,Bhopal,Central,Store,2,8500,0.0,17000.0,11200,5800.0,2025-11
+ORD0068,2025-01-13,P103,Office Chair,Furniture,Patna,East,Online,3,8500,0.1,22950.0,16800,6150.0,2025-01
+ORD0069,2025-05-17,P103,Office Chair,Furniture,Patna,East,Online,1,8500,0.1,7650.0,5600,2050.0,2025-05
+ORD0070,2025-08-29,P104,Desk,Furniture,Bhopal,Central,Store,4,12000,0.05,45600.0,32800,12800.0,2025-08
+ORD0071,2025-04-27,P104,Desk,Furniture,Gwalior,Central,Store,2,12000,0.1,21600.0,16400,5200.0,2025-04
+ORD0072,2025-05-23,P102,Headphones,Electronics,Indore,Central,Store,3,2500,0.15,6375.0,4200,2175.0,2025-05
+ORD0073,2025-12-14,P109,Table Lamp,Home & Kitchen,Indore,Central,Store,1,1800,0.0,1800.0,950,850.0,2025-12
+ORD0074,2025-04-02,P110,Backpack,Accessories,Indore,Central,Store,1,1600,0.0,1600.0,850,750.0,2025-04
+ORD0075,2025-06-26,P106,Pen Set,Stationery,Delhi,North,Online,5,180,0.15,765.0,300,465.0,2025-06
+ORD0076,2025-07-17,P110,Backpack,Accessories,Bhopal,Central,Store,3,1600,0.0,4800.0,2550,2250.0,2025-07
+ORD0077,2025-01-01,P109,Table Lamp,Home & Kitchen,Jaipur,North,Store,2,1800,0.05,3420.0,1900,1520.0,2025-01
+ORD0078,2025-02-05,P106,Pen Set,Stationery,Jaipur,North,Store,3,180,0.0,540.0,180,360.0,2025-02
+ORD0079,2025-09-17,P105,Notebook Pack,Stationery,Patna,East,Store,4,300,0.05,1140.0,480,660.0,2025-09
+ORD0080,2025-12-23,P105,Notebook Pack,Stationery,Jaipur,North,Store,2,300,0.0,600.0,240,360.0,2025-12
+ORD0081,2025-12-07,P107,Smartphone,Electronics,Patna,East,Store,2,22000,0.15,37400.0,33000,4400.0,2025-12
+ORD0082,2025-07-27,P109,Table Lamp,Home & Kitchen,Gwalior,Central,Online,3,1800,0.05,5130.0,2850,2280.0,2025-07
+ORD0083,2025-08-09,P110,Backpack,Accessories,Jaipur,North,Store,3,1600,0.1,4320.0,2550,1770.0,2025-08
+ORD0084,2025-08-15,P104,Desk,Furniture,Jaipur,North,Online,4,12000,0.0,48000.0,32800,15200.0,2025-08
+ORD0085,2025-05-26,P109,Table Lamp,Home & Kitchen,Patna,East,Online,5,1800,0.05,8550.0,4750,3800.0,2025-05
+ORD0086,2025-05-01,P105,Notebook Pack,Stationery,Bhopal,Central,Online,2,300,0.0,600.0,240,360.0,2025-05
+ORD0087,2025-01-24,P104,Desk,Furniture,Delhi,North,Store,5,12000,0.0,60000.0,41000,19000.0,2025-01
+ORD0088,2025-08-01,P110,Backpack,Accessories,Bhopal,Central,Store,4,1600,0.1,5760.0,3400,2360.0,2025-08
+ORD0089,2025-05-05,P103,Office Chair,Furniture,Patna,East,Store,1,8500,0.0,8500.0,5600,2900.0,2025-05
+ORD0090,2025-04-23,P103,Office Chair,Furniture,Patna,East,Online,5,8500,0.1,38250.0,28000,10250.0,2025-04
+ORD0091,2025-10-13,P104,Desk,Furniture,Gwalior,Central,Store,4,12000,0.0,48000.0,32800,15200.0,2025-10
+ORD0092,2025-12-08,P109,Table Lamp,Home & Kitchen,Jaipur,North,Store,5,1800,0.05,8550.0,4750,3800.0,2025-12
+ORD0093,2025-11-10,P109,Table Lamp,Home & Kitchen,Delhi,North,Online,5,1800,0.1,8100.0,4750,3350.0,2025-11
+ORD0094,2025-09-01,P108,Water Bottle,Home & Kitchen,Indore,Central,Store,2,650,0.05,1235.0,560,675.0,2025-09
+ORD0095,2025-11-17,P104,Desk,Furniture,Indore,Central,Store,4,12000,0.0,48000.0,32800,15200.0,2025-11
+ORD0096,2025-05-01,P105,Notebook Pack,Stationery,Indore,Central,Online,3,300,0.15,765.0,360,405.0,2025-05
+ORD0097,2025-03-12,P103,Office Chair,Furniture,Bhopal,Central,Online,4,8500,0.0,34000.0,22400,11600.0,2025-03
+ORD0098,2025-02-02,P107,Smartphone,Electronics,Delhi,North,Store,3,22000,0.15,56100.0,49500,6600.0,2025-02
+ORD0099,2025-08-01,P101,Laptop,Electronics,Bhopal,Central,Online,4,55000,0.1,198000.0,168000,30000.0,2025-08
+ORD0100,2025-10-22,P107,Smartphone,Electronics,Delhi,North,Store,1,22000,0.05,20900.0,16500,4400.0,2025-10
+ORD0101,2025-07-19,P107,Smartphone,Electronics,Jaipur,North,Online,5,22000,0.15,93500.0,82500,11000.0,2025-07
+ORD0102,2025-09-07,P104,Desk,Furniture,Indore,Central,Online,4,12000,0.1,43200.0,32800,10400.0,2025-09
+ORD0103,2025-07-19,P106,Pen Set,Stationery,Patna,East,Store,4,180,0.0,720.0,240,480.0,2025-07
+ORD0104,2025-03-07,P110,Backpack,Accessories,Jaipur,North,Online,1,1600,0.1,1440.0,850,590.0,2025-03
+ORD0105,2025-02-12,P107,Smartphone,Electronics,Bhopal,Central,Online,4,22000,0.0,88000.0,66000,22000.0,2025-02
+ORD0106,2025-05-14,P107,Smartphone,Electronics,Indore,Central,Store,2,22000,0.1,39600.0,33000,6600.0,2025-05
+ORD0107,2025-06-22,P107,Smartphone,Electronics,Indore,Central,Online,4,22000,0.05,83600.0,66000,17600.0,2025-06
+ORD0108,2025-08-29,P101,Laptop,Electronics,Patna,East,Store,5,55000,0.0,275000.0,210000,65000.0,2025-08
+ORD0109,2025-04-25,P102,Headphones,Electronics,Patna,East,Online,1,2500,0.0,2500.0,1400,1100.0,2025-04
+ORD0110,2025-04-13,P101,Laptop,Electronics,Jaipur,North,Online,2,55000,0.0,110000.0,84000,26000.0,2025-04
+ORD0111,2025-08-31,P102,Headphones,Electronics,Jaipur,North,Store,2,2500,0.1,4500.0,2800,1700.0,2025-08
+ORD0112,2025-07-08,P103,Office Chair,Furniture,Jaipur,North,Online,5,8500,0.0,42500.0,28000,14500.0,2025-07
+ORD0113,2025-06-09,P102,Headphones,Electronics,Jaipur,North,Store,1,2500,0.05,2375.0,1400,975.0,2025-06
+ORD0114,2025-07-23,P104,Desk,Furniture,Gwalior,Central,Online,5,12000,0.0,60000.0,41000,19000.0,2025-07
+ORD0115,2025-12-23,P105,Notebook Pack,Stationery,Patna,East,Online,5,300,0.0,1500.0,600,900.0,2025-12
+ORD0116,2025-06-27,P109,Table Lamp,Home & Kitchen,Delhi,North,Store,3,1800,0.0,5400.0,2850,2550.0,2025-06
+ORD0117,2025-01-07,P107,Smartphone,Electronics,Delhi,North,Store,1,22000,0.1,19800.0,16500,3300.0,2025-01
+ORD0118,2025-11-22,P108,Water Bottle,Home & Kitchen,Patna,East,Online,2,650,0.1,1170.0,560,610.0,2025-11
+ORD0119,2025-09-25,P105,Notebook Pack,Stationery,Jaipur,North,Store,5,300,0.1,1350.0,600,750.0,2025-09
+ORD0120,2025-08-12,P110,Backpack,Accessories,Indore,Central,Online,3,1600,0.0,4800.0,2550,2250.0,2025-08
+ORD0121,2025-05-23,P108,Water Bottle,Home & Kitchen,Bhopal,Central,Store,4,650,0.15,2210.0,1120,1090.0,2025-05
+ORD0122,2025-06-22,P101,Laptop,Electronics,Delhi,North,Store,3,55000,0.0,165000.0,126000,39000.0,2025-06
+ORD0123,2025-04-19,P106,Pen Set,Stationery,Indore,Central,Store,3,180,0.05,513.0,180,333.0,2025-04
+ORD0124,2025-10-12,P101,Laptop,Electronics,Jaipur,North,Online,2,55000,0.0,110000.0,84000,26000.0,2025-10
+ORD0125,2025-07-28,P108,Water Bottle,Home & Kitchen,Jaipur,North,Store,2,650,0.1,1170.0,560,610.0,2025-07
+ORD0126,2025-08-18,P101,Laptop,Electronics,Gwalior,Central,Store,3,55000,0.0,165000.0,126000,39000.0,2025-08
+ORD0127,2025-12-21,P104,Desk,Furniture,Indore,Central,Store,5,12000,0.05,57000.0,41000,16000.0,2025-12
+ORD0128,2025-10-11,P109,Table Lamp,Home & Kitchen,Indore,Central,Store,4,1800,0.15,6120.0,3800,2320.0,2025-10
+ORD0129,2025-06-30,P108,Water Bottle,Home & Kitchen,Indore,Central,Online,3,650,0.05,1852.5,840,1012.5,2025-06
+ORD0130,2025-03-03,P104,Desk,Furniture,Indore,Central,Online,1,12000,0.15,10200.0,8200,2000.0,2025-03
+ORD0131,2025-04-09,P104,Desk,Furniture,Patna,East,Store,4,12000,0.05,45600.0,32800,12800.0,2025-04
+ORD0132,2025-02-21,P104,Desk,Furniture,Indore,Central,Online,2,12000,0.05,22800.0,16400,6400.0,2025-02
+ORD0133,2025-06-04,P101,Laptop,Electronics,Patna,East,Store,5,55000,0.0,275000.0,210000,65000.0,2025-06
+ORD0134,2025-01-24,P101,Laptop,Electronics,Jaipur,North,Store,3,55000,0.0,165000.0,126000,39000.0,2025-01
+ORD0135,2025-02-22,P101,Laptop,Electronics,Jaipur,North,Store,3,55000,0.1,148500.0,126000,22500.0,2025-02
+ORD0136,2025-08-14,P106,Pen Set,Stationery,Bhopal,Central,Store,1,180,0.05,171.0,60,111.0,2025-08
+ORD0137,2025-02-28,P102,Headphones,Electronics,Delhi,North,Online,4,2500,0.0,10000.0,5600,4400.0,2025-02
+ORD0138,2025-03-19,P103,Office Chair,Furniture,Jaipur,North,Online,3,8500,0.0,25500.0,16800,8700.0,2025-03
+ORD0139,2025-03-02,P109,Table Lamp,Home & Kitchen,Delhi,North,Online,5,1800,0.15,7650.0,4750,2900.0,2025-03
+ORD0140,2025-09-25,P107,Smartphone,Electronics,Delhi,North,Store,4,22000,0.05,83600.0,66000,17600.0,2025-09
+ORD0141,2025-06-06,P110,Backpack,Accessories,Jaipur,North,Online,1,1600,0.15,1360.0,850,510.0,2025-06
+ORD0142,2025-04-17,P104,Desk,Furniture,Indore,Central,Online,1,12000,0.0,12000.0,8200,3800.0,2025-04
+ORD0143,2025-03-30,P109,Table Lamp,Home & Kitchen,Gwalior,Central,Store,2,1800,0.0,3600.0,1900,1700.0,2025-03
+ORD0144,2025-08-19,P110,Backpack,Accessories,Delhi,North,Online,3,1600,0.0,4800.0,2550,2250.0,2025-08
+ORD0145,2025-05-28,P105,Notebook Pack,Stationery,Patna,East,Online,4,300,0.0,1200.0,480,720.0,2025-05
+ORD0146,2025-05-16,P110,Backpack,Accessories,Patna,East,Online,2,1600,0.1,2880.0,1700,1180.0,2025-05
+ORD0147,2025-10-06,P104,Desk,Furniture,Patna,East,Online,2,12000,0.05,22800.0,16400,6400.0,2025-10
+ORD0148,2025-02-06,P101,Laptop,Electronics,Bhopal,Central,Store,3,55000,0.15,140250.0,126000,14250.0,2025-02
+ORD0149,2025-08-13,P102,Headphones,Electronics,Delhi,North,Store,3,2500,0.1,6750.0,4200,2550.0,2025-08
+ORD0150,2025-09-14,P109,Table Lamp,Home & Kitchen,Delhi,North,Online,4,1800,0.0,7200.0,3800,3400.0,2025-09
