@@ -1,50 +1,78 @@
-# Retail Sales Analysis Using SQL, Python & Power BI
+Retail Sales Analysis Project
 
-## Project overview
-This beginner-level portfolio project analyzes fictional retail sales data for 2025. It explores revenue, profit, product categories, monthly performance, cities, and sales channels.
+1. Project Overview
 
-**Important:** The included data is synthetic/sample data created for learning. Do not describe the results as real company data.
+This project focuses on analyzing retail sales data to understand business performance, revenue, profit, product categories, and sales trends.
 
-## Files
-- `retail_sales.csv` — raw sample data (150 orders)
-- `analysis_queries.sql` — beginner-friendly MySQL queries
-- `analyze_sales.py` — data checks, cleaning, summaries, and chart creation
-- `POWER_BI_GUIDE.md` — steps to create the dashboard
+The project uses Python, SQL, and Power BI to clean, analyze, and visualize retail sales data.
 
-## Tools
-- SQL (MySQL 8+)
-- Python (pandas, matplotlib)
-- Power BI Desktop
+2. Project Objectives
 
-## How to run the Python analysis
+- Analyze total sales and profit.
+- Identify top-performing product categories.
+- Analyze city-wise sales performance.
+- Compare online and store sales.
+- Understand sales trends over time.
+
+3. Tools & Technologies Used
+
+- Python – Data cleaning and analysis.
+- Pandas – Data manipulation.
+- Matplotlib – Data visualization.
+- MySQL – Database management and SQL queries.
+- Power BI – Interactive dashboard creation.
+- Excel/CSV – Dataset storage.
+
+4. Project Files
+
+- "retail_sales.csv" – Original dataset.
+- "cleaned_retail_sales.csv" – Cleaned dataset.
+- "analyze_sales.py" – Python analysis code.
+- "analysis_queries.sql" – SQL queries.
+- "Retail_Sales_Analysis.pbix" – Power BI dashboard.
+- "revenue_by_category.png" – Sales analysis chart.
+
+5. Key Features
+
+- Data cleaning using Python.
+- Sales analysis using SQL.
+- Revenue and profit analysis.
+- Category-wise and city-wise sales analysis.
+- Interactive Power BI dashboard.
+
+6. Installation & Setup
+
 1. Install Python.
-2. Open a terminal in this folder.
-3. Install packages: `pip install pandas matplotlib`
-4. Run: `python analyze_sales.py`
-5. The script creates `cleaned_retail_sales.csv` and `revenue_by_category.png`.
+2. Install MySQL.
+3. Install the required Python libraries.
+4. Open the project folder in VS Code.
 
-## How to use the SQL queries
-1. Create a database in MySQL.
-2. Import `retail_sales.csv` into a table named `retail_sales`.
-3. Open `analysis_queries.sql` in MySQL Workbench and run queries one by one.
-4. If your import tool creates different column names or date types, adjust them accordingly.
+Install Python libraries using:
 
-## Resume-ready project description
-**Retail Sales Analysis Dashboard | SQL, Python, Power BI**
-- Cleaned and analyzed 150 sample retail orders using Python (Pandas).
-- Wrote SQL queries to calculate revenue, profit, monthly sales, and category-wise performance.
-- Designed a Power BI dashboard to track sales KPIs and compare product categories, cities, and sales channels.
-- Identified sales patterns and summarized actionable business insights.
+"pip install pandas matplotlib mysql-connector-python"
 
-Only keep the Power BI bullet after you have built the dashboard yourself.
+7. How to Run the Project
 
-## Interview explanation (simple English)
-"I created a Retail Sales Analysis project using SQL, Python, and Power BI. I used Python to check and clean the data, SQL to answer business questions such as monthly sales and top product categories, and Power BI to create an interactive dashboard. This project helped me understand how data can support business decisions."
+1. Download or clone this repository.
+2. Open the project in VS Code.
+3. Run "analyze_sales.py".
+4. Import the dataset into MySQL.
+5. Execute SQL queries from "analysis_queries.sql".
+6. Open the Power BI dashboard file.
 
-## Suggested interview questions
-1. Why did you choose this project?
-2. What is the difference between SQL and Python?
-3. What data cleaning did you perform?
-4. Which SQL query did you find most useful?
-5. What KPIs did you show in Power BI?
-6. What business decision could the dashboard support?
+8. Dashboard Preview
+
+The Power BI dashboard provides insights into:
+
+- Total Revenue
+- Total Profit
+- Total Orders
+- Total Quantity
+- Monthly Sales Trends
+- Category-wise Revenue
+- City-wise Sales
+- Online vs Store Sales
+
+9. Conclusion
+
+This project demonstrates practical skills in Python, SQL, data analysis, and Power BI dashboard development.
