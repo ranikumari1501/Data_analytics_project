@@ -1,8 +1,4 @@
--- Retail Sales Analysis Project
--- Database example: MySQL 8+
--- Import retail_sales.csv into a table named retail_sales first.
 
--- 1. Check the data
 SELECT * FROM retail_sales LIMIT 10;
 
 -- 2. Total revenue, cost, profit, and orders
