@@ -1,10 +1,4 @@
-"""
-Retail Sales Analysis - beginner Python script
-Run:
-    pip install pandas matplotlib
-    python analyze_sales.py
-The script reads retail_sales.csv from the same folder.
-"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
